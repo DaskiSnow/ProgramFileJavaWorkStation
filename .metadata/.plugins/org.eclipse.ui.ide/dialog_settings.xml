@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="Z:\Java课件\MOOC05-02"/>
+		<item value="Z:\Java课件\MOOC05-01"/>
+		<item value="Z:\Java课件\MOOC04-04"/>
+		<item value="Z:\Java课件\MOOC04-03"/>
+		<item value="Z:\Java课件\MOOC04-02"/>
+		<item value="Z:\Java课件\MOOC04-01"/>
+		<item value="Z:\Java课件\MOOC03-04"/>
+		<item value="Z:\Java课件\MOOC03-03"/>
+	</list>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+</section>

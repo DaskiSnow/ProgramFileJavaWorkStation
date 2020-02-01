@@ -1,0 +1,12 @@
+package first;
+
+public class HelloWorld {
+	public static void main(String args[]) {
+		double a = Double.valueOf(String.valueOf(3.1f));
+		System.out.println("a=" + a);
+		char b='\u4eff';
+		System.out.println("b="+b);
+
+	}
+
+}

@@ -1,0 +1,9 @@
+package first;
+
+public class Cat extends Animal {
+	public Cat(String color,int number) {
+		super(color,number);
+		System.out.println("这是子类的有参构造函数");
+	}
+
+}

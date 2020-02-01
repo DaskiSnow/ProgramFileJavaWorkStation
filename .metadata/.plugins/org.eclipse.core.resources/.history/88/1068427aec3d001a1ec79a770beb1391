@@ -1,0 +1,14 @@
+package first;
+
+public class HelloWorld {
+	public static void main(String args[]) {
+		double a=3.1f;
+		System.out.println("a="+a);
+		}
+	}
+	
+	
+	
+	
+
+}

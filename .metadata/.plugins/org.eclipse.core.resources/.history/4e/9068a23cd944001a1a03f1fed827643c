@@ -1,0 +1,11 @@
+package first;
+
+class Pencil {
+
+	public void write(String content) {
+
+		System.out.println("Write" + content);
+
+	}
+
+}

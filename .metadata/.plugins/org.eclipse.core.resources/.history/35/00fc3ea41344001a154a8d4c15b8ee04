@@ -1,0 +1,8 @@
+package first;
+
+public class Cat extends Animal {
+	public Cat(String color,int number) {
+		super(color,number);
+	}
+
+}

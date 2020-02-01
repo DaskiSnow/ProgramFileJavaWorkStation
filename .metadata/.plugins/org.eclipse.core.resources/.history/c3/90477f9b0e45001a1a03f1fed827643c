@@ -1,0 +1,12 @@
+
+
+public class StaticPolyMorphlism {
+	public static void main(String[] args) {
+		StaticSuper staticSuper = new StaticSub();
+		staticSuper.staticGet();
+		staticSuper.dynamicGet();
+		StaticSub staticSub = new StaticSub();
+		staticSub.staticGet();
+		staticSub.dynamicGet();
+	}
+}

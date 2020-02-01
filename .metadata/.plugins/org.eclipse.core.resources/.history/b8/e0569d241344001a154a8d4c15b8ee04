@@ -1,0 +1,8 @@
+package first;
+
+public class Animal {
+	public Animal(String color,int number){
+		System.out.println("这是父类的有参构造函数");
+	}
+
+}

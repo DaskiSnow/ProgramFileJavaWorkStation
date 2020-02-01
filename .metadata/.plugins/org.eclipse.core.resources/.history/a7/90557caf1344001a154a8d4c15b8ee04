@@ -1,0 +1,29 @@
+package first;
+
+class HelloWorld {
+
+	HelloWorld() { }
+
+	HelloWorld(HelloWorld m) { m1 = m; }
+
+	HelloWorld m1;
+
+
+
+    public static void main(String[] args) {
+
+    	HelloWorld m2 = new HelloWorld();
+
+    	HelloWorld m3 = new HelloWorld(m2);  m3.go();
+
+    	HelloWorld m4 = m3.m1;  m4.go();
+
+    	HelloWorld m5 = m2.m1;  m5.go();
+
+    }
+
+    
+
+    void go() { System.out.print("hi "); }
+
+}
